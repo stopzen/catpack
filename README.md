@@ -5,7 +5,7 @@ This is just heroku support source
 Main source is here [main source](https://github.com/sandy1709/catuserbot) fork and give star to that repo 
 
 ## Deploy
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FMr-confused%2Fstopzen&template=https%3A%2F%2Fgithub.com%2FMr-confused%2Fstopzen)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fstopzen%2Fstopzen&template=https%3A%2F%2Fgithub.com%2Fstopzen%2Fstopzen)
 
 ## credits
    - [@midnightmadwalk](https://t.me/midnightmadwalk)
